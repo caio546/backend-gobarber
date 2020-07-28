@@ -14,7 +14,7 @@ export default {
 
   defaults: {
     from: {
-      email: 'gobarberdelivery@zohomail.com',
+      email: 'caio@dfer43r433.tk',
       name: 'Caio do GoBarber',
     },
   },
